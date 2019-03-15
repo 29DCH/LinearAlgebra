@@ -5,6 +5,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Vectors" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Introduction" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Vectors/Implement-Our-Own-Vector" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Vectors/Implement-Vector-Operations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Vectors/Implementation-of-Zero-Vector" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
