@@ -1,7 +1,7 @@
-from playLA.Matrix import Matrix
-from playLA.Vector import Vector
-from playLA.LinearSystem import LinearSystem
-from playLA.LinearSystem import inv, rank
+from LA.Matrix import Matrix
+from LA.Vector import Vector
+from LA.LinearSystem import LinearSystem
+from LA.LinearSystem import inv, rank
 
 
 if __name__ == "__main__":

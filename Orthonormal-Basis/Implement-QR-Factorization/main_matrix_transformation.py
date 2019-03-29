@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
-from playLA.Matrix import Matrix
-from playLA.Vector import Vector
+from LA.Matrix import Matrix
+from LA.Vector import Vector
 import math
 
 

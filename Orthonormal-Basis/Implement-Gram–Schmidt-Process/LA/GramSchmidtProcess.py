@@ -14,4 +14,4 @@ def gram_schmidt_process(basis):
         for r in res:
             p = p - basis[i].dot(r) / r.dot(r) * r
         res.append(p)
-    return res;
+    return res

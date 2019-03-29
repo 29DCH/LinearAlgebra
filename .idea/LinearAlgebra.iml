@@ -26,6 +26,11 @@
       <sourceFolder url="file://$MODULE_DIR$/Elemental-Matrices-and-The-Properties-of-Inversion/Implement-LU-Factorization" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Elemental-Matrices-and-The-Properties-of-Inversion/Implement-Inverse-of-Matrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Elemental-Matrices-and-The-Properties-of-Inversion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Vector-Space-Dimension-and-Four-Subspaces" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Vector-Space-Dimension-and-Four-Subspaces/Implement-Rank-of-Matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Orthonormal-Basis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Orthonormal-Basis/Implement-Gram–Schmidt-Process" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Orthonormal-Basis/Implement-QR-Factorization" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

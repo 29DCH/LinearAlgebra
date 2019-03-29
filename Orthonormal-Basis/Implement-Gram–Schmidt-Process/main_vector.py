@@ -1,4 +1,4 @@
-from playLA.Vector import Vector
+from LA.Vector import Vector
 
 if __name__ == "__main__":
 
