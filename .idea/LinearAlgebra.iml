@@ -20,6 +20,9 @@
       <sourceFolder url="file://$MODULE_DIR$/More-about-Matrix/Implement-Matrix-Transformations" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/More-about-Matrix/Implement-Identity-Matrix-and-Inverse-of-a-Matrix-in-Numpy" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/More-about-Matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Linear-System" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Linear-System/Implement-Gauss-Jordan-Elimination" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Linear-System/Implement-General-Gauss-Jordan-Elimination" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
