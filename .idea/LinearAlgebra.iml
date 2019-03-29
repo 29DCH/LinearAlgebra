@@ -11,6 +11,11 @@
       <sourceFolder url="file://$MODULE_DIR$/More-about-Vectors/Implementations-of-Dot-Product" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/More-about-Vectors/Normalization-Implementation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/More-about-Vectors/Vectors-in-Numpy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/The-Matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/The-Matrix/Implement-Basic-Operations-of-Matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/The-Matrix/Implement-Matrix-Multiplication" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/The-Matrix/Implement-Matrix-Transpose-and-Numpy-Matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/The-Matrix/Implement-Our-Own-Matrix" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
