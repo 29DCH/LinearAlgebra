@@ -23,6 +23,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Linear-System" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Linear-System/Implement-Gauss-Jordan-Elimination" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Linear-System/Implement-General-Gauss-Jordan-Elimination" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Elemental-Matrices-and-The-Properties-of-Inversion/Implement-LU-Factorization" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Elemental-Matrices-and-The-Properties-of-Inversion/Implement-Inverse-of-Matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Elemental-Matrices-and-The-Properties-of-Inversion" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
