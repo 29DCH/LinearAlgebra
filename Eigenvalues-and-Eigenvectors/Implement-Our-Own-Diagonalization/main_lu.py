@@ -1,5 +1,5 @@
-from playLA.Matrix import Matrix
-from playLA.LU import lu
+from LA.Matrix import Matrix
+from LA.LU import lu
 
 
 if __name__ == "__main__":

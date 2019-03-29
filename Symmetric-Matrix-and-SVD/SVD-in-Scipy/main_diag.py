@@ -1,7 +1,7 @@
 import numpy as np
 from numpy.linalg import eig, inv
-from playLA.LinearSystem import rank
-from playLA.Matrix import Matrix
+from LA.LinearSystem import rank
+from LA.Matrix import Matrix
 
 
 def diagonalize(A):

@@ -31,6 +31,11 @@
       <sourceFolder url="file://$MODULE_DIR$/Orthonormal-Basis" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Orthonormal-Basis/Implement-Gram–Schmidt-Process" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Orthonormal-Basis/Implement-QR-Factorization" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Eigenvalues-and-Eigenvectors/Implement-Our-Own-Diagonalization" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Eigenvalues-and-Eigenvectors/Eigenvalues-and-Eigenvectors-in-numpy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Eigenvalues-and-Eigenvectors" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Symmetric-Matrix-and-SVD" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Symmetric-Matrix-and-SVD/SVD-in-Scipy" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

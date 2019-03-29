@@ -1,5 +1,5 @@
-from playLA.Matrix import Matrix
-from playLA.GramSchmidtProcess import qr
+from LA.Matrix import Matrix
+from LA.GramSchmidtProcess import qr
 
 
 if __name__ == "__main__":

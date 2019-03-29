@@ -1,5 +1,5 @@
-from playLA.Vector import Vector
-from playLA.GramSchmidtProcess import gram_schmidt_process
+from LA.Vector import Vector
+from LA.GramSchmidtProcess import gram_schmidt_process
 from itertools import product
 
 
